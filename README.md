@@ -1,18 +1,52 @@
 ## Olá a todos, Me chamo Luiz gustavo 😊
 
 
-**`🏫Licenciando em Computação`** / **`📘Desenvolvedor Python`** / **`📘Analise de dados`** 
-<!--
-**CostelaGit/CostelaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Licenciando em Computação👨‍🏫`** / **`Programador Python📘`** / **`Analise de dados📘`** 
 
-Here are some ideas to get you started:
+Me chamo Luiz gustavo, atualmente estudo Licenciatura da computação na UFRPE, aqui você encontrar um pouco de meus projetos e praticas em algumas linguagens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="www.linkedin.com/in/luiz-gustavo-62b293214/">
+         <img alt="LinkedIn" title="See my LinkdIn" src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-teal?color=339bdf&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2789ca&/></a> 
+
+---
+
+
+
+## ⚙️  Linguagens e Ferramentas
+
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Jupyter Notebook"
+    title="Jupyter Notebook"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>

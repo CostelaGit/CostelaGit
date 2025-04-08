@@ -9,7 +9,8 @@ Me chamo Luiz gustavo, atualmente estudo Licenciatura da computação na UFRPE, 
          <img alt="LinkedIn" title="See my LinkdIn" src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-teal?color=339bdf&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2789ca&/></a> 
 
 ---
-
+Kasane Teto hehe!
+![tetoris-kasane-teto](https://github.com/user-attachments/assets/f1ba0d2a-fda5-4cb5-8920-5c61e889ab16)
 
 
 ## ⚙️  Linguagens e Ferramentas

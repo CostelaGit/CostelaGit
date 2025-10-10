@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,django,flask,spring" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,django,fastapi,spring" />
   </a>
 </p>
 

@@ -38,9 +38,17 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,django,fastapi,spring" />
-  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+    </a>
+      <br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+    </a>
+      <br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+    </a>
 </p>
 
 

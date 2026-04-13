@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=python" />
     </a>
       <br>
     <a href="https://skillicons.dev">

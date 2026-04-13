@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">Me chamo Luiz Gustavo sou Recife Pernambuco<br><br>- 🔭 Atualmente Trabalho como Tutor de Tecnologia na Prefeitura do Recife<br>- 📚 Estudo atualmente Licenciatura em computação e tenho olhado para área de Desenvolvimento<br>- ⚡ No meu Tempo livre costumo Jogar e Estudar sobre Desenvolvimento</p>
+<p align="center">Me chamo Luiz Gustavo sou Recife Pernambuco<br><br>- 🔭 Atualmente Trabalho como Estagiario de Automações e Implantação do BITRIX24 <br>- 📚 Estudo atualmente Licenciatura em computação e tenho olhado para área de Desenvolvimento<br>- ⚡ No meu Tempo livre costumo Jogar e Estudar sobre Desenvolvimento</p>
 
 ###
 

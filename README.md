@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <br>
-    <a href="https://costelagit.github.io/meu-site/" target="_blank">
+    <a href="https://costelagit.github.io/minha_home_page/" target="_blank">
     <img src="https://img.shields.io/badge/Site-Gitpages-brightgreen?style=plastic" alt="Site Logo"  />
   </a>
 </div>
